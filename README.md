@@ -40,8 +40,3 @@ npm start
 
 
 #
-
-## Criado por
-- @miniguiti (giuliana.franca@bandtec.com.br)
-- @fernandacaramico (fernanda.caramico@bandtec.com.br)
-- @reisrb (rafael.reis@bandtec.com.br)
